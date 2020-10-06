@@ -9,7 +9,7 @@ const IndexPage = () => {
     <Layout>
       <Head title="Home" />
       <h1>Bures</h1>
-      <h2>Lean Rune, skapprogrammerár Kárášjogas.</h2>
+      <h2>Lean skapprogrammerár Kárášjogas.</h2>
       <p>
         Dukkaraddamin <a href="https://gatsbyjs.com">Gatsby:ain</a> ja <a href="https://contentful.com">Contentful:ain</a>.
         <Link to="/contact">Váldde oktavuođa.</Link>
