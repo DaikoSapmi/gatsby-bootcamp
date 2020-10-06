@@ -7,11 +7,13 @@ import Head from '../components/head'
 const IndexPage = () => {
   return (
     <Layout>
-      <Head title="Home"/>
-      <h1>Hello.</h1>
-      <h2>I'm Rune , a full-stack developer living in beautiful Kárášjohka.</h2>
-      <p>Need a developer? <a href="/contact">Contact me!</a></p>
-      <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+      <Head title="Home" />
+      <h1>Bures</h1>
+      <h2>Lean Rune, skapprogrammerár Kárášjogas.</h2>
+      <p>
+        Dukkaraddamin <a href="https://gatsbyjs.com">Gatsby:ain</a> ja <a href="https://contentful.com">Contentful:ain</a>.
+        <Link to="/contact">Váldde oktavuođa.</Link>
+      </p>
     </Layout>
   )
 }
