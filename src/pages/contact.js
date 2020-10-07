@@ -7,8 +7,8 @@ const ContactPage = () => {
     return (
         <Layout>
             <Head title="Contact" />
-            <h1>Contact</h1>
-            <p>You can reach me on <a href="https://twitter.com/RuneFjellheim">@RuneFjellheim</a> at Twitter</p>
+            <h1>Váldde oktavuođa</h1>
+            <p>Don gávdnát mu dás <a href="https://twitter.com/RuneFjellheim">@RuneFjellheim</a> at Twitter</p>
         </Layout>
     )
 }
