@@ -9,8 +9,8 @@ const AboutPage = () => {
         <Layout>
             <Head title="About" />
             <h1>Rune Fjellheim</h1>
-            <p>Jeg er foreløpig mellom jobber.</p>
-            <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+            <p>Lean nannemin iežan dihtoroahppu erenoamášit Jamstack prinsihppaid.</p>
+            <p>Dárbbašatgo veahkki? <Link to="/contact">Váldde oktavuođa!</Link></p>
         </Layout>
     )
 }
