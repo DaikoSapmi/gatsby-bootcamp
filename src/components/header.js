@@ -28,7 +28,7 @@ const Header = () => {
                 activeClassName={headerStyles.activeNavItem}
                 to="/"
               >
-                Home
+                Ruoktut
               </Link>
             </li>
             <li>
@@ -37,7 +37,7 @@ const Header = () => {
                 activeClassName={headerStyles.activeNavItem}
                 to="/blog"
               >
-                Blog
+                Blogga
               </Link>
             </li>
             <li>
@@ -46,7 +46,7 @@ const Header = () => {
                 activeClassName={headerStyles.activeNavItem}
                 to="/about"
               >
-                About
+                Mu birra
               </Link>
             </li>
             <li>
@@ -55,7 +55,7 @@ const Header = () => {
                 activeClassName={headerStyles.activeNavItem}
                 to="/contact"
               >
-                Contact
+                Váldde oktavuođa
               </Link>
             </li>
           </ul>
